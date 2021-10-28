@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/danielpencak/github-package-test/issues"
   },
+  "publishConfig": {
+    "@danielpencak:registry": "https://npm.pkg.githun.com"
+  },
   "homepage": "https://github.com/danielpencak/github-package-test#readme"
 }
